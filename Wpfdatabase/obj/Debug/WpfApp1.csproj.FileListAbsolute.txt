@@ -1,0 +1,36 @@
+D:\Project\C шарп\Продажа практических\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Project\C шарп\Продажа практических\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Project\C шарп\Продажа практических\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Project\C шарп\Продажа практических\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Project\C шарп\Продажа практических\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+D:\Project\C шарп\Продажа практических\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Project\C шарп\Продажа практических\WpfApp1\obj\Debug\App.g.cs
+D:\Project\C шарп\Продажа практических\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Project\C шарп\Продажа практических\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Project\C шарп\Продажа практических\WpfApp1\obj\Debug\MainWindow.baml
+D:\Project\C шарп\Продажа практических\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Project\C шарп\Продажа практических\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Project\C шарп\Продажа практических\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Project\C шарп\Продажа практических\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Project\C шарп\Продажа практических\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Project\C шарп\Продажа практических\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\Wpfdatabase\bin\Debug\WpfApp1.exe.config
+C:\Users\aleks\OneDrive\Рабочий стол\Wpfdatabase\bin\Debug\WpfApp1.exe
+C:\Users\aleks\OneDrive\Рабочий стол\Wpfdatabase\bin\Debug\WpfApp1.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\Wpfdatabase\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Рабочий стол\Wpfdatabase\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleks\OneDrive\Рабочий стол\Wpfdatabase\obj\Debug\MainWindow.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\Wpfdatabase\obj\Debug\App.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\Wpfdatabase\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\aleks\OneDrive\Рабочий стол\Wpfdatabase\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\aleks\OneDrive\Рабочий стол\Wpfdatabase\obj\Debug\MainWindow.baml
+C:\Users\aleks\OneDrive\Рабочий стол\Wpfdatabase\obj\Debug\WpfApp1.g.resources
+C:\Users\aleks\OneDrive\Рабочий стол\Wpfdatabase\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\aleks\OneDrive\Рабочий стол\Wpfdatabase\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\aleks\OneDrive\Рабочий стол\Wpfdatabase\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\Wpfdatabase\obj\Debug\WpfApp1.exe
+C:\Users\aleks\OneDrive\Рабочий стол\Wpfdatabase\obj\Debug\WpfApp1.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\Wpfdatabase\obj\Debug\Window1.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\Wpfdatabase\obj\Debug\Window1.baml
+C:\Users\aleks\OneDrive\Рабочий стол\Wpfdatabase\obj\Debug\Window2.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\Wpfdatabase\obj\Debug\Window2.baml
